@@ -1,6 +1,5 @@
 # WP 2FA Login As User Bypass
 
-![Plugin Banner](assets/banner-1544x500.png)
 
 A lightweight WordPress plugin that temporarily disables WP 2FA enforcement when using the "Login as User" plugin for seamless user switching.
 
